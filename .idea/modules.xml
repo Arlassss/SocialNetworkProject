@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoreApiModuleProject/CoreApiModuleProject.iml" filepath="$PROJECT_DIR$/CoreApiModuleProject/CoreApiModuleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreImplModuleProject/CoreImplModuleProject.iml" filepath="$PROJECT_DIR$/CoreImplModuleProject/CoreImplModuleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DaoModuleProject/DaoModuleProject.iml" filepath="$PROJECT_DIR$/DaoModuleProject/DaoModuleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesctopUIModuleProject/DesctopUIModuleProject.iml" filepath="$PROJECT_DIR$/DesctopUIModuleProject/DesctopUIModuleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocialNetworkProject.iml" filepath="$PROJECT_DIR$/SocialNetworkProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebModuleProject/WebModuleProject.iml" filepath="$PROJECT_DIR$/WebModuleProject/WebModuleProject.iml" />
+    </modules>
+  </component>
+</project>
