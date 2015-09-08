@@ -9,8 +9,15 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>CoreImpl</groupId>
+    <groupId>SkillsUp</groupId>
     <artifactId>CoreImplModule</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>SkillsUp</groupId>
+            <artifactId>CoreApiModule</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>

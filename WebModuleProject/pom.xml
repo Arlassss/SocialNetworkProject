@@ -14,14 +14,35 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
+    <properties>
+        <spring_web_version>4.2.1.RELEASE</spring_web_version>
+    </properties>
+
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <scope>test</scope>
     </dependency>
+    <dependency>
+     <groupId>SkillsUp</groupId>
+     <artifactId>CoreApiModule</artifactId>
+     <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+     <groupId>org.springframework</groupId>
+     <artifactId>spring-core</artifactId>
+    </dependency>
+      <dependency>
+          <groupId>org.springframework</groupId>
+          <artifactId>spring-web</artifactId>
+          <version>${spring_web_version}</version>
+      </dependency>
   </dependencies>
+
   <build>
     <finalName>WebModule</finalName>
   </build>
+
 </project>
